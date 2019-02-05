@@ -1,0 +1,13 @@
+{
+
+    "firstNname": "Louis",
+    "lastNname": "Fortier",
+    "birthday": "March 7, 1984",
+    "bio": [
+        { 
+            "description": "GitHub",
+            "URL": "https://github.com/dakotakid7"
+        },
+       
+    ]
+}
